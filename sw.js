@@ -2,8 +2,8 @@ const CACHE_NAME = 'mdl-portfolio-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
-  '/css/style.css',
-  '/js/main.js',
+  '/style.css',
+  '/app.js',
   '/images/background.jpg',
   '/images/favicon.ico',
   '/images/logo.png',
